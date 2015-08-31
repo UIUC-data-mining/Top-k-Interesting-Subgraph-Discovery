@@ -1,0 +1,14 @@
+1 Algorithms and theory 
+2 Programming languages
+3 Concurrent, distributed and parallel computing 
+4 Software engineering 
+5 Operating systems
+6 Computer architecture 
+7 Computer networking 
+8 Security and privacy 
+9 Databases
+10 Artificial intelligence 
+11 Computer graphics
+12 Human Computer interaction
+13 Computational biology
+14 Education
